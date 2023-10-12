@@ -1,0 +1,31 @@
+,Company,Exchange,Symbol,Industry,Date added,Notes,Index weighting,member,weight
+0,3M,NYSE,MMM,Conglomerate,1976-08-09,As Minnesota Mining and Manufacturing,2.41%,MMM - 3M,0.0241
+1,American Express,NYSE,AXP,Financial services,1982-08-30,,3.02%,AXP - American Express,0.0302
+2,Amgen,NASDAQ,AMGN,Biopharmaceutical,2020-08-31,,5.48%,AMGN - Amgen,0.0548
+3,Apple,NASDAQ,AAPL,Information technology,2015-03-19,,2.84%,AAPL - Apple,0.028399999999999998
+4,Boeing,NYSE,BA,Aerospace and defense,1987-03-12,,3.36%,BA - Boeing,0.0336
+5,Caterpillar,NYSE,CAT,Construction and mining,1991-05-06,,4.52%,CAT - Caterpillar,0.0452
+6,Chevron,NYSE,CVX,Petroleum industry,2008-02-19,Also 1930-07-18 to 1999-11-01,3.50%,CVX - Chevron,0.035
+7,Cisco,NASDAQ,CSCO,Information technology,2009-06-08,,0.96%,CSCO - Cisco,0.0096
+8,Coca-Cola,NYSE,KO,Drink industry,1987-03-12,Also 1932-05-26 to 1935-11-20,1.22%,KO - Coca-Cola,0.012199999999999999
+9,Disney,NYSE,DIS,Broadcasting and entertainment,1991-05-06,,1.89%,DIS - Disney,0.0189
+10,Dow,NYSE,DOW,Chemical industry,1991-05-06,,0.98%,DOW - Dow,0.0098
+11,Goldman Sachs,NYSE,GS,Financial services,2019-04-02,,7.36%,GS - Goldman Sachs,0.0736
+12,Home Depot,NYSE,HD,Home Improvement,1999-11-01,,6.27%,HD - Home Depot,0.06269999999999999
+13,Honeywell,NASDAQ,HON,Conglomerate,2020-08-31,AlliedSignal and Honeywell,4.17%,HON - Honeywell,0.0417
+14,IBM,NYSE,IBM,Information technology,1979-06-29,Also 1932-05-26 to 1939-03-04,2.86%,IBM - IBM,0.0286
+15,Intel,NASDAQ,INTC,Semiconductor industry,1999-11-01,,0.57%,INTC - Intel,0.005699999999999999
+16,Johnson & Johnson,NYSE,JNJ,Pharmaceutical industry,1997-03-17,,3.43%,JNJ - Johnson & Johnson,0.034300000000000004
+17,JPMorgan Chase,NYSE,JPM,Financial services,1991-05-06,,2.61%,JPM - JPMorgan Chase,0.026099999999999998
+18,McDonald's,NYSE,MCD,Food industry,1985-10-30,,5.24%,MCD - McDonald's,0.0524
+19,Merck,NYSE,MRK,Pharmaceutical industry,1979-06-29,,2.10%,MRK - Merck,0.021
+20,Microsoft,NASDAQ,MSFT,Information technology,1999-11-01,,4.88%,MSFT - Microsoft,0.048799999999999996
+21,Nike,NYSE,NKE,Clothing industry,2013-09-20,,2.13%,NKE - Nike,0.0213
+22,Procter & Gamble,NYSE,PG,Fast-moving consumer goods,1932-05-26,,2.86%,PG - Procter & Gamble,0.0286
+23,Salesforce,NYSE,CRM,Information technology,2020-08-31,,2.82%,CRM - Salesforce,0.0282
+24,Travelers,NYSE,TRV,Insurance,2009-06-08,,3.62%,TRV - Travelers,0.0362
+25,UnitedHealth Group,NYSE,UNH,Managed health care,2012-09-24,,10.29%,UNH - UnitedHealth Group,0.10289999999999999
+26,Verizon,NYSE,VZ,Telecommunications industry,2004-04-08,,0.73%,VZ - Verizon,0.0073
+27,Visa,NYSE,V,Financial services,2013-09-20,,4.16%,V - Visa,0.0416
+28,Walgreens Boots Alliance,NASDAQ,WBA,Retailing,2018-06-26,,0.79%,WBA - Walgreens Boots Alliance,0.0079
+29,Walmart,NYSE,WMT,Retailing,1997-03-17,,2.94%,WMT - Walmart,0.0294
